@@ -1,2 +1,3 @@
 # Predictive-Analysis-of-Vehicules-Accidents-
-An academic project with the purpose of performing an analysis of the corporeal automobile in France claims data and to create prediction models for various indicators concerning such as the prediction of the accident severity score, the exact locations of the accidents, and the number of accidents per municipality.... This tools used in this project are : Jupyter Notebook (Python) , PowerBI
+An academic project with the purpose of performing an analysis of the corporeal automobile in France claims data and to create prediction models for various indicators concerning such as the prediction of the accident severity score, the exact locations of the accidents, and the number of accidents per municipality.... 
+Used tools for this project are : Jupyter Notebook (Python) , PowerBI
